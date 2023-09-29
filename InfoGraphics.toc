@@ -2,4 +2,7 @@
 ## Title: InfoGraphics
 ## Notes: Info Graphics
 
+functions/RenderFunctions.lua
+utils/UnitDistance.lua
+InfoFrame.lua
 InfoGraphics.lua
